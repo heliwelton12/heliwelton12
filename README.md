@@ -1,10 +1,6 @@
 <div align="center">
 
-# Heliwelton Fernandes
-
-### Desenvolvedor Web • Bacharel em Sistemas de Informação
-
-Desenvolvendo aplicações web e transformando ideias em soluções digitais.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081B29,50:0EA5E9,100:20F68D&height=200&section=header&text=Heliwelton%20Fernandes&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20%E2%80%A2%20Full%20Stack&descAlignY=55&descSize=18" />
 
 <br>
 
@@ -12,6 +8,10 @@ Desenvolvendo aplicações web e transformando ideias em soluções digitais.
 <a href="https://www.linkedin.com/in/heliweltondev/" title="LinkedIn"><img width="46" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/heliwelton.codes/" title="Instagram"><img width="46" height="46" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/heliwelton12" title="GitHub"><img width="46" height="46" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub"></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=heliwelton12&label=VISITAS%20AO%20PERFIL&style=flat-square" alt="Visitas ao perfil">
 
 </div>
 
@@ -93,7 +93,7 @@ Inclui recursos para vendas, estoque, clientes, ordens de serviço, fornecedores
 <code>Python</code>
 <code>PostgreSQL</code>
 
-<br><br><br>
+<br><br>
 
 <a href="https://github.com/heliwelton12/hf-erp"><img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"></a>
 
@@ -118,7 +118,7 @@ Possui autenticação, reservas, controle de horários e histórico de agendamen
 <code>HTML</code>
 <code>CSS</code>
 
-<br><br><br>
+<br><br>
 
 <a href="https://github.com/heliwelton12/agendamento-de-salas"><img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"></a>
 
@@ -143,7 +143,7 @@ Portfólio pessoal desenvolvido para apresentar meus projetos, tecnologias e tra
 <code>TypeScript</code>
 <code>CSS</code>
 
-<br><br><br>
+<br><br>
 
 <a href="https://heliweltondev.netlify.app/"><img src="https://img.shields.io/badge/Acessar%20portfólio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar portfólio"></a>&nbsp;
 <a href="https://github.com/heliwelton12/heliwelton-portfolio"><img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"></a>
@@ -160,7 +160,7 @@ Permite visualizar produtos, personalizar itens, utilizar carrinho e enviar o pe
 
 <strong>Projeto Web</strong>
 
-<br><br><br><br><br><br>
+<br><br>
 
 <a href="https://cactus-burguer.cactusburguer.chatgpt.site/"><img src="https://img.shields.io/badge/Acessar%20projeto-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar projeto"></a>
 
