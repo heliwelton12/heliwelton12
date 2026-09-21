@@ -8,6 +8,7 @@ Desenvolvendo aplicações web e transformando ideias em soluções digitais.
 
 <br>
 
+<a href="https://heliweltondev.netlify.app/" title="Portfólio"><img width="46" height="46" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfólio"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/heliweltondev/" title="LinkedIn"><img width="46" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/heliwelton.codes/" title="Instagram"><img width="46" height="46" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/heliwelton12" title="GitHub"><img width="46" height="46" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub"></a>
@@ -92,11 +93,9 @@ Inclui recursos para vendas, estoque, clientes, ordens de serviço, fornecedores
 <code>Python</code>
 <code>PostgreSQL</code>
 
-<br><br>
+<br><br><br>
 
-<a href="https://github.com/heliwelton12/hf-erp">
-  <img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/heliwelton12/hf-erp"><img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"></a>
 
 </td>
 
@@ -119,11 +118,9 @@ Possui autenticação, reservas, controle de horários e histórico de agendamen
 <code>HTML</code>
 <code>CSS</code>
 
-<br><br>
+<br><br><br>
 
-<a href="https://github.com/heliwelton12/agendamento-de-salas">
-  <img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/heliwelton12/agendamento-de-salas"><img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"></a>
 
 </td>
 
@@ -146,11 +143,10 @@ Portfólio pessoal desenvolvido para apresentar meus projetos, tecnologias e tra
 <code>TypeScript</code>
 <code>CSS</code>
 
-<br><br>
+<br><br><br>
 
-<a href="https://github.com/heliwelton12/heliwelton-portfolio">
-  <img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://heliweltondev.netlify.app/"><img src="https://img.shields.io/badge/Acessar%20portfólio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar portfólio"></a>&nbsp;
+<a href="https://github.com/heliwelton12/heliwelton-portfolio"><img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"></a>
 
 </td>
 
@@ -164,11 +160,9 @@ Permite visualizar produtos, personalizar itens, utilizar carrinho e enviar o pe
 
 <strong>Projeto Web</strong>
 
-<br><br>
+<br><br><br><br><br><br>
 
-<a href="https://cactus-burguer.cactusburguer.chatgpt.site/">
-  <img src="https://img.shields.io/badge/Acessar%20projeto-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<a href="https://cactus-burguer.cactusburguer.chatgpt.site/"><img src="https://img.shields.io/badge/Acessar%20projeto-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar projeto"></a>
 
 </td>
 
@@ -194,11 +188,5 @@ Permite visualizar produtos, personalizar itens, utilizar carrinho e enviar o pe
 <div align="center">
 
 ### Desenvolvendo, aprendendo e evoluindo um projeto de cada vez.
-
-<br>
-
-<a href="https://github.com/heliwelton12">
-  <img src="https://img.shields.io/badge/GitHub-Confira%20meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
