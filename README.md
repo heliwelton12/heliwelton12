@@ -21,12 +21,16 @@
 
 ## Sobre mim
 
-- Bacharel em **Sistemas de Informação pela UNEB**
-- Focado em **Desenvolvimento Web e Full Stack**
-- Desenvolvimento de aplicações Front-end e Back-end
-- Experiência prática por meio de projetos acadêmicos e projetos próprios
-- Aprimorando conhecimentos em desenvolvimento web, APIs e bancos de dados
-- Em busca de oportunidades profissionais na área de tecnologia
+Sou desenvolvedor web e gosto de transformar necessidades reais em soluções simples, funcionais e bem organizadas.
+
+Venho construindo minha experiência por meio de projetos próprios, acadêmicos e soluções para pequenos negócios, trabalhando desde a interface até a integração com regras de negócio e banco de dados.
+
+Atualmente, tenho me dedicado principalmente a:
+
+- Desenvolvimento de sistemas web completos
+- Integração entre Front-end, Back-end e APIs
+- Modelagem e integração com bancos de dados
+- Responsividade, usabilidade e organização de interfaces
 
 <br>
 
