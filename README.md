@@ -25,46 +25,48 @@ Sou desenvolvedor web e gosto de transformar necessidades reais em soluções si
 
 Venho construindo minha experiência por meio de projetos próprios, acadêmicos e soluções para pequenos negócios, trabalhando desde a interface até a integração com regras de negócio e banco de dados.
 
-Atualmente, tenho me dedicado principalmente a:
-
-- Desenvolvimento de sistemas web completos
-- Integração entre Front-end, Back-end e APIs
-- Modelagem e integração com bancos de dados
-- Responsividade, usabilidade e organização de interfaces
+Busco desenvolver aplicações que unam funcionalidade, organização e boa experiência de uso, sempre procurando entender a necessidade antes de definir a solução.
 
 <br>
+
+**Meu foco**
+
+<p>
+  <img src="https://img.shields.io/badge/Desenvolvimento%20Web-0EA5E9?style=for-the-badge" alt="Desenvolvimento Web" />
+  <img src="https://img.shields.io/badge/Full%20Stack-081B29?style=for-the-badge" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/APIs%20e%20Integra%C3%A7%C3%B5es-20B981?style=for-the-badge" alt="APIs e Integrações" />
+  <img src="https://img.shields.io/badge/Banco%20de%20Dados-1D4ED8?style=for-the-badge" alt="Banco de Dados" />
+  <img src="https://img.shields.io/badge/Responsividade-0F766E?style=for-the-badge" alt="Responsividade" />
+  <img src="https://img.shields.io/badge/Experi%C3%AAncia%20do%20Usu%C3%A1rio-334155?style=for-the-badge" alt="Experiência do Usuário" />
+</p>
 
 ---
 
 ### Tecnologias e ferramentas
 
-<div align="center">
+**Front-end**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,mysql,postgres,git,github,vscode&perline=8" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-<br><br>
+**Back-end**
 
-<strong>Front-end</strong><br>
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+</p>
 
-<br><br>
+**Banco de Dados**
 
-<strong>Back-end</strong><br>
-Node.js • Express • Python • FastAPI
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-<br><br>
+**Ferramentas**
 
-<strong>Banco de Dados</strong><br>
-MySQL • PostgreSQL
-
-<br><br>
-
-<strong>Ferramentas</strong><br>
-Git • GitHub • Visual Studio Code
-
-</div>
-
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+</p>
 
 ---
 
@@ -75,52 +77,57 @@ Git • GitHub • Visual Studio Code
 
 <td width="50%" valign="top">
 
-<h3>HF ERP</h3>
+<h4>HF ERP</h4>
+
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-0EA5E9?style=flat-square" alt="Em desenvolvimento" />
+
+<br><br>
 
 Sistema ERP Full Stack desenvolvido para gestão de uma futura papelaria e loja de serviços.
 
-Inclui recursos para vendas, estoque, clientes, ordens de serviço, fornecedores e controle financeiro.
-
-<strong>Tecnologias</strong>
+Reúne vendas, estoque, clientes, ordens de serviço, fornecedores e controle financeiro em uma única aplicação.
 
 <br><br>
 
-<code>Next.js</code>
-<code>React</code>
-<code>TypeScript</code>
-<code>Tailwind CSS</code>
-<code>FastAPI</code>
-<code>Python</code>
-<code>PostgreSQL</code>
+<strong>Destaques</strong>
 
-<br><br>
+<ul>
+<li>Full Stack</li>
+<li>Gestão empresarial</li>
+<li>Banco de dados</li>
+</ul>
 
-<a href="https://github.com/heliwelton12/hf-erp"><img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"></a>
+<a href="https://github.com/heliwelton12/hf-erp">
+  <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório" />
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>UniPlace</h3>
+<h4>UniPlace</h4>
 
-Sistema web desenvolvido para gerenciamento e agendamento de salas e laboratórios.
+<img src="https://img.shields.io/badge/STATUS-PROJETO%20ACAD%C3%8AMICO-64748B?style=flat-square" alt="Projeto acadêmico" />
+
+<br><br>
+
+Sistema desenvolvido durante a graduação para gerenciamento e agendamento de salas e laboratórios.
 
 Possui autenticação, reservas, controle de horários e histórico de agendamentos.
 
-<strong>Tecnologias</strong>
-
 <br><br>
 
-<code>Node.js</code>
-<code>Express</code>
-<code>JavaScript</code>
-<code>MySQL</code>
-<code>HTML</code>
-<code>CSS</code>
+<strong>Destaques</strong>
 
-<br><br>
+<ul>
+<li>Autenticação</li>
+<li>Reservas</li>
+<li>MySQL</li>
+</ul>
 
-<a href="https://github.com/heliwelton12/agendamento-de-salas"><img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"></a>
+<a href="https://github.com/heliwelton12/agendamento-de-salas">
+  <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório" />
+</a>
 
 </td>
 
@@ -130,60 +137,72 @@ Possui autenticação, reservas, controle de horários e histórico de agendamen
 
 <td width="50%" valign="top">
 
-<h3>Portfólio Profissional</h3>
+<h4>Portfólio Profissional</h4>
 
-Portfólio pessoal desenvolvido para apresentar meus projetos, tecnologias e trajetória profissional como desenvolvedor web.
-
-<strong>Tecnologias</strong>
+<img src="https://img.shields.io/badge/STATUS-PUBLICADO-22C55E?style=flat-square" alt="Publicado" />
 
 <br><br>
 
-<code>Next.js</code>
-<code>React</code>
-<code>TypeScript</code>
-<code>CSS</code>
+Portfólio desenvolvido para reunir minha apresentação profissional, projetos, conhecimentos e formas de contato.
+
+Também funciona como projeto prático de Front-end e construção da minha identidade profissional.
 
 <br><br>
 
-<a href="https://heliweltondev.netlify.app/"><img src="https://img.shields.io/badge/Acessar%20portfólio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar portfólio"></a>&nbsp;
-<a href="https://github.com/heliwelton12/heliwelton-portfolio"><img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"></a>
+<strong>Destaques</strong>
+
+<ul>
+<li>Next.js</li>
+<li>Responsividade</li>
+<li>Identidade visual</li>
+</ul>
+
+<a href="https://heliweltondev.netlify.app/">
+  <img src="https://img.shields.io/badge/ACESSAR%20PORTF%C3%93LIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar portfólio" />
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>Cactus Burguer</h3>
+<h4>Cactus Burguer</h4>
 
-Cardápio digital online desenvolvido para facilitar o atendimento e a realização de pedidos.
-
-Permite visualizar produtos, personalizar itens, utilizar carrinho e enviar o pedido organizado pelo WhatsApp.
-
-<strong>Projeto Web</strong>
+<img src="https://img.shields.io/badge/STATUS-PROJETO%20REAL%20%E2%80%A2%20PUBLICADO-22C55E?style=flat-square" alt="Projeto real publicado" />
 
 <br><br>
 
-<a href="https://cactus-burguer.cactusburguer.chatgpt.site/"><img src="https://img.shields.io/badge/Acessar%20projeto-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar projeto"></a>
+Cardápio digital desenvolvido para facilitar o atendimento e a realização de pedidos.
+
+Permite personalizar produtos, utilizar carrinho e enviar o pedido organizado diretamente pelo WhatsApp.
+
+<br><br>
+
+<strong>Destaques</strong>
+
+<ul>
+<li>Mobile first</li>
+<li>Carrinho</li>
+<li>WhatsApp</li>
+</ul>
+
+<a href="https://cactus-burguer.cactusburguer.chatgpt.site/">
+  <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar projeto" />
+</a>
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
 ---
 
-### Atualmente
+### Em evolução
 
-- Aprimorando conhecimentos em **desenvolvimento Full Stack**
-- Desenvolvendo projetos para fortalecer meu portfólio
-- Estudando aplicações web modernas e integração entre Front-end e Back-end
-- Evoluindo conhecimentos em APIs, banco de dados e boas práticas de desenvolvimento
-- Buscando oportunidades profissionais na área de tecnologia
+- Aprofundando a arquitetura e organização de aplicações **Full Stack**
+- Evoluindo na integração entre **APIs, regras de negócio e bancos de dados**
+- Aprimorando **responsividade, usabilidade e experiência do usuário**
 
 <br>
-
----
 
 <div align="center">
 
