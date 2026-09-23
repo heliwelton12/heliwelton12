@@ -1,6 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081B29,50:0EA5E9,100:20F68D&height=200&section=header&text=Heliwelton%20Fernandes&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20%E2%80%A2%20Full%20Stack&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081B29,50:0EA5E9,100:20F68D&height=200&section=header&text=Heliwelton%20Fernandes&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" />
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=650&height=55&lines=Desenvolvedor+Web+%E2%80%A2+Full+Stack"
+  alt="Desenvolvedor Web • Full Stack"
+/>
 
 <br>
 
@@ -193,6 +198,22 @@ Permite personalizar produtos, utilizar carrinho e enviar o pedido organizado di
 
 </tr>
 </table>
+
+---
+
+### Atividade no GitHub
+
+<div align="center">
+
+<a href="https://github.com/heliwelton12">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=heliwelton12&bg_color=0D1117&color=C9D1D9&line=20F68D&point=0EA5E9&area=true&area_color=0EA5E9&hide_border=true&hide_title=true&grid=false&radius=8&height=300"
+    alt="Gráfico de atividade no GitHub"
+  />
+</a>
+
+</div>
 
 ---
 
