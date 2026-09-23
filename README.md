@@ -201,22 +201,6 @@ Permite personalizar produtos, utilizar carrinho e enviar o pedido organizado di
 
 ---
 
-### Atividade no GitHub
-
-<div align="center">
-
-<a href="https://github.com/heliwelton12">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=heliwelton12&bg_color=0D1117&color=C9D1D9&line=20F68D&point=0EA5E9&area=true&area_color=0EA5E9&hide_border=true&hide_title=true&grid=false&radius=8&height=300"
-    alt="Gráfico de atividade no GitHub"
-  />
-</a>
-
-</div>
-
----
-
 ### Contribuições
 
 <div align="center">
