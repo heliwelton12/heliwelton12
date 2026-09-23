@@ -217,6 +217,20 @@ Permite personalizar produtos, utilizar carrinho e enviar o pedido organizado di
 
 ---
 
+### Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heliwelton12/heliwelton12/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heliwelton12/heliwelton12/output/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/heliwelton12/heliwelton12/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ### Em evolução
 
 - Aprofundando a arquitetura e organização de aplicações **Full Stack**
