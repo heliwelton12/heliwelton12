@@ -47,30 +47,54 @@ Busco desenvolver aplicações que unam funcionalidade, organização e boa expe
 
 ---
 
+### Minha trajetória
+
+<div align="center">
+
+**Bacharel em Sistemas de Informação — UNEB • 2026**
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FORMA%C3%87%C3%83O-0EA5E9?style=flat-square" alt="Formação" />
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/PROJETOS%20ACAD%C3%8AMICOS-334155?style=flat-square" alt="Projetos acadêmicos" />
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/PROJETOS%20REAIS-20B981?style=flat-square" alt="Projetos reais" />
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/DESENVOLVIMENTO%20FULL%20STACK-081B29?style=flat-square" alt="Desenvolvimento Full Stack" />
+
+</div>
+
+---
+
 ### Tecnologias e ferramentas
 
 **Front-end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript e TypeScript" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js e Tailwind CSS" />
 </p>
 
 **Back-end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Node.js, Express, Python e FastAPI" />
 </p>
 
 **Banco de Dados**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL e PostgreSQL" />
 </p>
 
 **Ferramentas**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" alt="Git, GitHub, VS Code e Netlify" />
 </p>
 
 ---
@@ -84,7 +108,7 @@ Busco desenvolver aplicações que unam funcionalidade, organização e boa expe
 
 <h4>HF ERP</h4>
 
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-0EA5E9?style=flat-square" alt="Em desenvolvimento" />
+<img src="https://img.shields.io/badge/EM%20DESENVOLVIMENTO-0EA5E9?style=flat-square" alt="Em desenvolvimento" />
 
 <br><br>
 
@@ -103,7 +127,7 @@ Reúne vendas, estoque, clientes, ordens de serviço, fornecedores e controle fi
 </ul>
 
 <a href="https://github.com/heliwelton12/hf-erp">
-  <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório" />
+  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-181717?style=flat-square&logo=github&logoColor=white" alt="Repositório HF ERP" />
 </a>
 
 </td>
@@ -112,7 +136,7 @@ Reúne vendas, estoque, clientes, ordens de serviço, fornecedores e controle fi
 
 <h4>UniPlace</h4>
 
-<img src="https://img.shields.io/badge/STATUS-PROJETO%20ACAD%C3%8AMICO-64748B?style=flat-square" alt="Projeto acadêmico" />
+<img src="https://img.shields.io/badge/ACAD%C3%8AMICO-64748B?style=flat-square" alt="Projeto acadêmico" />
 
 <br><br>
 
@@ -131,7 +155,7 @@ Possui autenticação, reservas, controle de horários e histórico de agendamen
 </ul>
 
 <a href="https://github.com/heliwelton12/agendamento-de-salas">
-  <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório" />
+  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-181717?style=flat-square&logo=github&logoColor=white" alt="Repositório UniPlace" />
 </a>
 
 </td>
@@ -144,7 +168,7 @@ Possui autenticação, reservas, controle de horários e histórico de agendamen
 
 <h4>Portfólio Profissional</h4>
 
-<img src="https://img.shields.io/badge/STATUS-PUBLICADO-22C55E?style=flat-square" alt="Publicado" />
+<img src="https://img.shields.io/badge/PUBLICADO-22C55E?style=flat-square" alt="Publicado" />
 
 <br><br>
 
@@ -163,7 +187,7 @@ Também funciona como projeto prático de Front-end e construção da minha iden
 </ul>
 
 <a href="https://heliweltondev.netlify.app/">
-  <img src="https://img.shields.io/badge/ACESSAR%20PORTF%C3%93LIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar portfólio" />
+  <img src="https://img.shields.io/badge/VER%20ONLINE-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Acessar portfólio" />
 </a>
 
 </td>
@@ -172,7 +196,7 @@ Também funciona como projeto prático de Front-end e construção da minha iden
 
 <h4>Cactus Burguer</h4>
 
-<img src="https://img.shields.io/badge/STATUS-PROJETO%20REAL%20%E2%80%A2%20PUBLICADO-22C55E?style=flat-square" alt="Projeto real publicado" />
+<img src="https://img.shields.io/badge/REAL%20%E2%80%A2%20ONLINE-22C55E?style=flat-square" alt="Projeto real publicado" />
 
 <br><br>
 
@@ -191,7 +215,7 @@ Permite personalizar produtos, utilizar carrinho e enviar o pedido organizado di
 </ul>
 
 <a href="https://cactus-burguer.cactusburguer.chatgpt.site/">
-  <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar projeto" />
+  <img src="https://img.shields.io/badge/VER%20ONLINE-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="Acessar Cactus Burguer" />
 </a>
 
 </td>
@@ -201,14 +225,28 @@ Permite personalizar produtos, utilizar carrinho e enviar o pedido organizado di
 
 ---
 
-### Contribuições
+### GitHub em números
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heliwelton12/heliwelton12/output/github-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heliwelton12/heliwelton12/output/github-stats-light.svg">
+  <img width="100%" alt="Estatísticas do GitHub de Heliwelton Fernandes" src="https://raw.githubusercontent.com/heliwelton12/heliwelton12/output/github-stats-light.svg">
+</picture>
+
+</div>
+
+---
+
+### Minha atividade no GitHub
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heliwelton12/heliwelton12/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heliwelton12/heliwelton12/output/github-contribution-grid-snake.svg">
-  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/heliwelton12/heliwelton12/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/heliwelton12/heliwelton12/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -217,14 +255,45 @@ Permite personalizar produtos, utilizar carrinho e enviar o pedido organizado di
 
 ### Em evolução
 
-- Aprofundando a arquitetura e organização de aplicações **Full Stack**
-- Evoluindo na integração entre **APIs, regras de negócio e bancos de dados**
-- Aprimorando **responsividade, usabilidade e experiência do usuário**
+<p>
+  <img src="https://img.shields.io/badge/ARQUITETURA%20FULL%20STACK-0EA5E9?style=flat-square" alt="Arquitetura Full Stack" />
+  Organização de aplicações, separação de responsabilidades e estrutura de projetos completos.
+</p>
 
-<br>
+<p>
+  <img src="https://img.shields.io/badge/APIs%2C%20REGRAS%20E%20DADOS-20B981?style=flat-square" alt="APIs, regras e dados" />
+  Integrações mais robustas entre APIs, regras de negócio e bancos de dados.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PRODUTO%20E%20INTERFACE-334155?style=flat-square" alt="Produto e interface" />
+  Responsividade, usabilidade e experiência do usuário aplicadas a necessidades reais.
+</p>
+
+---
+
+### Vamos conversar?
 
 <div align="center">
 
-### Desenvolvendo, aprendendo e evoluindo um projeto de cada vez.
+Se quiser conhecer melhor meus projetos ou conversar sobre desenvolvimento web, estes são os melhores caminhos:
+
+<br><br>
+
+<a href="https://heliweltondev.netlify.app/">
+  <img src="https://img.shields.io/badge/PORTF%C3%93LIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/heliweltondev/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br><br>
+
+**Desenvolvendo, aprendendo e evoluindo um projeto de cada vez.**
 
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:20F68D,50:0EA5E9,100:081B29&height=120&section=footer&animation=fadeIn" />
