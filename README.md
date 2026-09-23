@@ -19,7 +19,7 @@
 
 ---
 
-## Sobre mim
+### Sobre mim
 
 Sou desenvolvedor web e gosto de transformar necessidades reais em soluções simples, funcionais e bem organizadas.
 
@@ -36,34 +36,30 @@ Atualmente, tenho me dedicado principalmente a:
 
 ---
 
-## Tecnologias e ferramentas
+### Tecnologias e ferramentas
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,mysql,postgres,git,github,vscode&perline=8" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-**Front-end**  
+<strong>Front-end</strong><br>
 HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS
 
-<br>
+<br><br>
 
-**Back-end**  
+<strong>Back-end</strong><br>
 Node.js • Express • Python • FastAPI
 
-<br>
+<br><br>
 
-**Banco de Dados**  
+<strong>Banco de Dados</strong><br>
 MySQL • PostgreSQL
 
-<br>
+<br><br>
 
-**Ferramentas**  
+<strong>Ferramentas</strong><br>
 Git • GitHub • Visual Studio Code
 
 </div>
@@ -72,7 +68,7 @@ Git • GitHub • Visual Studio Code
 
 ---
 
-## Projetos em destaque
+### Projetos em destaque
 
 <table>
 <tr>
@@ -177,7 +173,7 @@ Permite visualizar produtos, personalizar itens, utilizar carrinho e enviar o pe
 
 ---
 
-## Atualmente
+### Atualmente
 
 - Aprimorando conhecimentos em **desenvolvimento Full Stack**
 - Desenvolvendo projetos para fortalecer meu portfólio
