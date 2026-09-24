@@ -26,11 +26,11 @@
 
 ### Sobre mim
 
-Sou desenvolvedor web e gosto de transformar necessidades reais em soluções simples, funcionais e bem organizadas.
+<p><big>Sou desenvolvedor web e gosto de transformar necessidades reais em soluções simples, funcionais e bem organizadas.</big></p>
 
-Venho construindo minha experiência por meio de projetos próprios, acadêmicos e soluções para pequenos negócios, trabalhando desde a interface até a integração com regras de negócio e banco de dados.
+<p><big>Venho construindo minha experiência por meio de projetos próprios, acadêmicos e soluções para pequenos negócios, trabalhando desde a interface até a integração com regras de negócio e banco de dados.</big></p>
 
-Busco desenvolver aplicações que unam funcionalidade, organização e boa experiência de uso, sempre procurando entender a necessidade antes de definir a solução.
+<p><big>Busco desenvolver aplicações que unam funcionalidade, organização e boa experiência de uso, sempre procurando entender a necessidade antes de definir a solução.</big></p>
 
 <br>
 
@@ -44,26 +44,6 @@ Busco desenvolver aplicações que unam funcionalidade, organização e boa expe
   <img src="https://img.shields.io/badge/Responsividade-0F766E?style=for-the-badge" alt="Responsividade" />
   <img src="https://img.shields.io/badge/Experi%C3%AAncia%20do%20Usu%C3%A1rio-334155?style=for-the-badge" alt="Experiência do Usuário" />
 </p>
-
----
-
-### Minha trajetória
-
-<div align="center">
-
-**Bacharel em Sistemas de Informação — UNEB • 2026**
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FORMA%C3%87%C3%83O-0EA5E9?style=flat-square" alt="Formação" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/PROJETOS%20ACAD%C3%8AMICOS-334155?style=flat-square" alt="Projetos acadêmicos" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/PROJETOS%20REAIS-20B981?style=flat-square" alt="Projetos reais" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/DESENVOLVIMENTO%20FULL%20STACK-081B29?style=flat-square" alt="Desenvolvimento Full Stack" />
-
-</div>
 
 ---
 
@@ -276,7 +256,7 @@ Permite personalizar produtos, utilizar carrinho e enviar o pedido organizado di
 
 <div align="center">
 
-Se quiser conhecer melhor meus projetos ou conversar sobre desenvolvimento web, estes são os melhores caminhos:
+<big>Se quiser conhecer melhor meus projetos ou conversar sobre desenvolvimento web, estes são os melhores caminhos:</big>
 
 <br><br>
 
@@ -290,7 +270,7 @@ Se quiser conhecer melhor meus projetos ou conversar sobre desenvolvimento web, 
 
 <br><br>
 
-**Desenvolvendo, aprendendo e evoluindo um projeto de cada vez.**
+<big><strong>Desenvolvendo, aprendendo e evoluindo um projeto de cada vez.</strong></big>
 
 </div>
 
