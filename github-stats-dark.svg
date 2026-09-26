@@ -1,0 +1,25 @@
+<svg width="900" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Estatísticas do GitHub">
+      <rect x="1" y="1" width="898" height="238" rx="18" fill="#0D1117" stroke="#30363D"/>
+      <text x="40" y="45" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">GitHub em números</text>
+
+      <g font-family="Segoe UI, Arial, sans-serif">
+        <rect x="40" y="70" width="190" height="92" rx="14" fill="#161B22" stroke="#30363D"/>
+        <text x="58" y="103" fill="#8B949E" font-size="14">COMMITS PÚBLICOS</text>
+        <text x="58" y="142" fill="#0EA5E9" font-size="30" font-weight="700">61</text>
+
+        <rect x="250" y="70" width="190" height="92" rx="14" fill="#161B22" stroke="#30363D"/>
+        <text x="268" y="103" fill="#8B949E" font-size="14">REPOSITÓRIOS</text>
+        <text x="268" y="142" fill="#20F68D" font-size="30" font-weight="700">7</text>
+
+        <rect x="460" y="70" width="190" height="92" rx="14" fill="#161B22" stroke="#30363D"/>
+        <text x="478" y="103" fill="#8B949E" font-size="14">STARS RECEBIDAS</text>
+        <text x="478" y="142" fill="#0EA5E9" font-size="30" font-weight="700">0</text>
+
+        <rect x="670" y="70" width="190" height="92" rx="14" fill="#161B22" stroke="#30363D"/>
+        <text x="688" y="103" fill="#8B949E" font-size="14">PROJETOS PRÓPRIOS</text>
+        <text x="688" y="142" fill="#20F68D" font-size="30" font-weight="700">7</text>
+
+        <text x="40" y="196" fill="#8B949E" font-size="14">LINGUAGENS MAIS PRESENTES</text>
+        <text x="40" y="222" fill="#F0F6FC" font-size="17" font-weight="600">TypeScript • JavaScript • CSS • Python • HTML</text>
+      </g>
+    </svg>
